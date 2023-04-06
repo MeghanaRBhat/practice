@@ -1,0 +1,20 @@
+#Push Buttons
+NET "stop" LOC = P45;
+NET "start" LOC = P44;
+NET "reset" LOC = P43;
+NET "load" LOC = P41;
+
+
+#led
+NET "Count[0]" LOC = p33; #LSB
+NET "Count[1]" LOC = p32;
+NET "Count[2]" LOC = p30;
+NET "Count[3]" LOC = p29;
+NET "Count[4]" LOC = p27;
+NET "Count[5]" LOC = p26;
+NET "Count[6]" LOC = p24;
+
+#Slide Switches
+NET "UpOrDown" LOC = p22; #LSB
+
+NET "Clk" LOC = p84;
