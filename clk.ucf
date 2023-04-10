@@ -1,8 +1,8 @@
-#Push Buttons
-NET "stop" LOC = P45;
-NET "start" LOC = P44;
-NET "reset" LOC = P43;
-NET "load" LOC = P41;
+#slide switches
+NET "stop" LOC = P22;
+NET "start" LOC = P21;
+NET "reset" LOC = P17;
+NET "load" LOC = P16;
 
 
 #led
