@@ -4,7 +4,6 @@ NET "start" LOC = P21;
 NET "reset" LOC = P17;
 NET "load" LOC = P16;
 
-
 #led
 NET "Count[0]" LOC = p33; #LSB
 NET "Count[1]" LOC = p32;
