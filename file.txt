@@ -1,11 +1,5 @@
-this is git bash
-hgfefhgkb
-fbhjekekjjhg
-rgehfkbfhbf
-hhjfgfyhf
-hfuhhfg
-hjhgfejfleihuY
-
+this is git bash 
+modifyning the text file
 
 
 
